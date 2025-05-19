@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Prueba de Trabajo en HTML</title>
+</head>
+<body>
+    <h1>Hola, este es una prueba de trabajo en HTML</h1>
+    <h2>Integrantes:</h2>
+    <ul>
+        <li>Oscar Tabangoo</li>
+        <li>Luis Andrimba</li>
+        <li>Jhair Garcia</li>
+    </ul>
+    <p>Este proyecto está alojado en <a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
+</body>
+</html>
